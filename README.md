@@ -1,1 +1,1 @@
-# demystifying-the-quantum-key-distribution-scheme-bb84-protocol
+# Demystifying the Quantum Key Distribution Scheme BB84 Protocol
